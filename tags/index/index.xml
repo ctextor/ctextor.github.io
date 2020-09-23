@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Claire Textor Personal Website</title>
-    <link>https://ctextor.github.io/tags/index/</link>
+    <link>https://textor.me/tags/index/</link>
     <description>Recent content in index on Claire Textor Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://ctextor.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://textor.me/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://ctextor.github.io/post/</link>
+      <link>https://textor.me/post/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ctextor.github.io/post/</guid>
+      <guid>https://textor.me/post/</guid>
       <description></description>
     </item>
     
