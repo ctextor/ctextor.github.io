@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>usability on Claire Textor Personal Website</title>
+    <link>https://example.com/tags/usability/</link>
+    <description>Recent content in usability on Claire Textor Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/usability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recycling Bin Usability and Design</title>
+      <link>https://example.com/post/recycling/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/recycling/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h4 id=&#34;clemson-university-_facilities-department_&#34;&gt;Clemson University, &lt;em&gt;Facilities Department&lt;/em&gt;&lt;/h4&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://example.com/images/plastic.JPG&#34; height=&#34;400px&#34;/&gt; 
+&lt;/figure&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

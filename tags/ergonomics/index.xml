@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ergonomics on Claire Textor Personal Website</title>
+    <link>https://example.com/tags/ergonomics/</link>
+    <description>Recent content in ergonomics on Claire Textor Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/ergonomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ergonomic Evaluation</title>
+      <link>https://example.com/post/ergo-eval/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/ergo-eval/</guid>
+      <description>&lt;h4 id=&#34;clemson-university-_facilities-department_&#34;&gt;Clemson University, &lt;em&gt;Facilities Department&lt;/em&gt;&lt;/h4&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://example.com/images/reba1.JPG&#34; height=&#34;350px&#34;/&gt; 
+&lt;/figure&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
