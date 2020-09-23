@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>prototype on Claire Textor Personal Website</title>
-    <link>textor.me/tags/prototype/</link>
+    <link>http://textor.me/tags/prototype/</link>
     <description>Recent content in prototype on Claire Textor Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="textor.me/tags/prototype/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://textor.me/tags/prototype/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Course Evaluation Feedback System</title>
-      <link>textor.me/post/cucwd/</link>
+      <link>http://textor.me/post/cucwd/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/post/cucwd/</guid>
+      <guid>http://textor.me/post/cucwd/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h4 id=&#34;clemson-university-_center-for-workforce-development_&#34;&gt;Clemson University, &lt;em&gt;Center for Workforce Development&lt;/em&gt;&lt;/h4&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;textor.me/images/cucwd2.JPG&#34; height=&#34;300px&#34;/&gt; 
+    &lt;img src=&#34;http://textor.me/images/cucwd2.JPG&#34; height=&#34;300px&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     
