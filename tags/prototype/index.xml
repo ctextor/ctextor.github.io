@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>prototype on Claire Textor Personal Website</title>
-    <link>https://example.com/tags/prototype/</link>
+    <link>https://ctextor.github.io/tags/prototype/</link>
     <description>Recent content in prototype on Claire Textor Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/prototype/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ctextor.github.io/tags/prototype/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Course Evaluation Feedback System</title>
-      <link>https://example.com/post/cucwd/</link>
+      <link>https://ctextor.github.io/post/cucwd/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/cucwd/</guid>
+      <guid>https://ctextor.github.io/post/cucwd/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h4 id=&#34;clemson-university-_center-for-workforce-development_&#34;&gt;Clemson University, &lt;em&gt;Center for Workforce Development&lt;/em&gt;&lt;/h4&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://example.com/images/cucwd2.JPG&#34; height=&#34;300px&#34;/&gt; 
+    &lt;img src=&#34;https://ctextor.github.io/images/cucwd2.JPG&#34; height=&#34;300px&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     
