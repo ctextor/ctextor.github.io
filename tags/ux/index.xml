@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UX on Claire Textor Personal Website</title>
-    <link>http://textor.me/tags/ux/</link>
+    <link>textor.me/tags/ux/</link>
     <description>Recent content in UX on Claire Textor Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://textor.me/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="textor.me/tags/ux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recycling Bin Usability and Design</title>
-      <link>http://textor.me/post/recycling/</link>
+      <link>textor.me/post/recycling/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://textor.me/post/recycling/</guid>
+      <guid>textor.me/post/recycling/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h4 id=&#34;clemson-university-_facilities-department_&#34;&gt;Clemson University, &lt;em&gt;Facilities Department&lt;/em&gt;&lt;/h4&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;http://textor.me/images/plastic.JPG&#34; height=&#34;400px&#34;/&gt; 
+    &lt;img src=&#34;textor.me/images/plastic.JPG&#34; height=&#34;400px&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     
