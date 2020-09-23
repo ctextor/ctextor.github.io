@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>safety on Claire Textor Personal Website</title>
-    <link>https://textor.me/tags/safety/</link>
+    <link>textor.me/tags/safety/</link>
     <description>Recent content in safety on Claire Textor Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://textor.me/tags/safety/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="textor.me/tags/safety/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ergonomic Evaluation</title>
-      <link>https://textor.me/post/ergo-eval/</link>
+      <link>textor.me/post/ergo-eval/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://textor.me/post/ergo-eval/</guid>
+      <guid>textor.me/post/ergo-eval/</guid>
       <description>&lt;h4 id=&#34;clemson-university-_facilities-department_&#34;&gt;Clemson University, &lt;em&gt;Facilities Department&lt;/em&gt;&lt;/h4&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;https://textor.me/images/reba1.JPG&#34; height=&#34;350px&#34;/&gt; 
+    &lt;img src=&#34;textor.me/images/reba1.JPG&#34; height=&#34;350px&#34;/&gt; 
 &lt;/figure&gt;</description>
     </item>
     
