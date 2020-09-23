@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Claire Textor Personal Website</title>
-    <link>textor.me/tags/</link>
+    <link>http://textor.me/tags/</link>
     <description>Recent content in Tags on Claire Textor Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="textor.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://textor.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ergonomics</title>
-      <link>textor.me/tags/ergonomics/</link>
+      <link>http://textor.me/tags/ergonomics/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/tags/ergonomics/</guid>
+      <guid>http://textor.me/tags/ergonomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REBA</title>
-      <link>textor.me/tags/reba/</link>
+      <link>http://textor.me/tags/reba/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/tags/reba/</guid>
+      <guid>http://textor.me/tags/reba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>safety</title>
-      <link>textor.me/tags/safety/</link>
+      <link>http://textor.me/tags/safety/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/tags/safety/</guid>
+      <guid>http://textor.me/tags/safety/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prototype</title>
-      <link>textor.me/tags/prototype/</link>
+      <link>http://textor.me/tags/prototype/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/tags/prototype/</guid>
+      <guid>http://textor.me/tags/prototype/</guid>
       <description></description>
     </item>
     
     <item>
       <title>solutions</title>
-      <link>textor.me/tags/solutions/</link>
+      <link>http://textor.me/tags/solutions/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/tags/solutions/</guid>
+      <guid>http://textor.me/tags/solutions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>user-centered</title>
-      <link>textor.me/tags/user-centered/</link>
+      <link>http://textor.me/tags/user-centered/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/tags/user-centered/</guid>
+      <guid>http://textor.me/tags/user-centered/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>textor.me/tags/design/</link>
+      <link>http://textor.me/tags/design/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/tags/design/</guid>
+      <guid>http://textor.me/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>usability</title>
-      <link>textor.me/tags/usability/</link>
+      <link>http://textor.me/tags/usability/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/tags/usability/</guid>
+      <guid>http://textor.me/tags/usability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UX</title>
-      <link>textor.me/tags/ux/</link>
+      <link>http://textor.me/tags/ux/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/tags/ux/</guid>
+      <guid>http://textor.me/tags/ux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>textor.me/tags/index/</link>
+      <link>http://textor.me/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>textor.me/tags/index/</guid>
+      <guid>http://textor.me/tags/index/</guid>
       <description></description>
     </item>
     
