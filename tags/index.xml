@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Claire Textor Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://textor.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>human-centered</title>
+      <link>https://textor.me/tags/human-centered/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textor.me/tags/human-centered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usability</title>
+      <link>https://textor.me/tags/usability/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textor.me/tags/usability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>https://textor.me/tags/website/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://textor.me/tags/website/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ergonomics</title>
@@ -71,15 +98,6 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://textor.me/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>usability</title>
-      <link>https://textor.me/tags/usability/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://textor.me/tags/usability/</guid>
       <description></description>
     </item>
     
